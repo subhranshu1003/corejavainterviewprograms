@@ -1,3 +1,4 @@
+//this program is o find prime numbers between 1 and 100
 package com.examples.basic;
 
 public class PrimeNumbers {

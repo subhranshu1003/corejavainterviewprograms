@@ -1,3 +1,4 @@
+//this progrm is to find prime numbers between 1 and n(input number)
 package com.examples.basic;
 import java.util.Scanner;
 public class PrimeNumbers2 {

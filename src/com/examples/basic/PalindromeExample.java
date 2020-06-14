@@ -1,3 +1,4 @@
+//this program is to check given number is palindrome number or not
 package com.examples.basic;
 
 import java.util.Scanner;
