@@ -1,3 +1,4 @@
+//this program is to resize an array
 package com.examples.arrays;
 
 public class ArraysUtilResize {

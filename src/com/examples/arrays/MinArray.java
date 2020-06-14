@@ -1,3 +1,4 @@
+//this program is to fin minimum value of an integer array
 package com.examples.arrays;
 
 public class MinArray {

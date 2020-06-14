@@ -1,3 +1,4 @@
+//this program is to print an array
 package com.examples.arrays;
 
 public class ArraysUtil {

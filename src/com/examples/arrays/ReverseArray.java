@@ -1,3 +1,4 @@
+//this program is to find reverse value of an array
 package com.examples.arrays;
 
 public class ReverseArray {

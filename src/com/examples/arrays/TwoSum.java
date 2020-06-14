@@ -1,3 +1,5 @@
+//this program is to find two numbers in an array from their sum
+
 package com.examples.arrays;
 
 import java.util.HashMap;
