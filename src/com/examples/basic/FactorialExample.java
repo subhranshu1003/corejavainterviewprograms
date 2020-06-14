@@ -1,3 +1,4 @@
+//this program is to find factorial of a number
 package com.examples.basic;
 
 import java.util.Scanner;

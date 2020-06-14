@@ -1,3 +1,4 @@
+//this program is to find factorial of a number using recursion
 package com.examples.basic;
 
 import java.util.Scanner;

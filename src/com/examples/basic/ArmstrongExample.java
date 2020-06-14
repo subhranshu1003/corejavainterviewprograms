@@ -1,3 +1,5 @@
+//this program is to check given number is armstrong or not
+//: A positive number is called armstrong number if it is equal to the sum of cubes of its digits for example 0, 1, 153, 370, 371, 407 etc.
 package com.examples.basic;
 
 import java.util.Scanner;
